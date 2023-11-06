@@ -1,3 +1,3 @@
-module github.com/DinozavrrrDan/go-module.git
+module github.com/DinozavrrrDan/go-module
 
 go 1.21.3
